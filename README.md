@@ -40,7 +40,7 @@ This Streamlit web app allows you to upload an image, detect objects within it u
 - Jayushna Mahadule (GitHub: https://github.com/JayushnaMahadule)
 - Aayush Zade (GitHub: https://github.com/AayushZade)
 - Rutuja Balbudhe (Github:
-  https:/github.com/Rutufied)
+  https://github.com/Rutufied)
 
 **Disclaimer:**
 
